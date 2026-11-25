@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PPM_Turma2026.cpp" />
+    <ClCompile Include="Aula_01.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Outputs\IMG.ppm" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -3,6 +3,9 @@
 
 
 #include <iostream>
+
+
+
 #include <fstream>
 /*
 - ifstream is input file stream which allows you to read the contents of a file.
@@ -10,7 +13,9 @@
 - fstream allows both reading from and writing to files by default.
 
 */
-using namespace std;
+ using namespace std;
+
+
 
 
 int main() {

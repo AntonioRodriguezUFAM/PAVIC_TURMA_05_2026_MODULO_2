@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PPM_Turma2026.cpp">
+    <ClCompile Include="Aula_01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Outputs\IMG.ppm" />
   </ItemGroup>
 </Project>
