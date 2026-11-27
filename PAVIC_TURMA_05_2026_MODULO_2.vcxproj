@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Aula_01.cpp" />
+    <ClCompile Include="Aula_02_02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="image\Outputs\IMG.ppm" />
